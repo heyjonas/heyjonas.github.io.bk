@@ -12,10 +12,10 @@ Dapat sa October ko pa to bubuksan, pag pumasa na ko sa CPA Board Exam, pero sig
 Parang magiging diary ko to ? 😮😨 parang gay, pero yaan na. IDGAF.
 Kaya pagtiisan mo na lang, minsan magiging baduy ako dito.
 Baka maglagay ako dito ng mga non-sense na posts.
-Kung hindi mo na matiis, pwede mo namang wag na ituloy ang pagbabasa.
+Kung hindi mo na matiis, pwede ka namang wag na magbasa.
 Kalimutan mo na ung link at i-delete sa history ng browser mo.
 
-May paki-usap pala ako sayo.
+May paki-usap lang ako sayo.
 Kung ano mang mabasa mo dito, sarilinin mo na lang.
 Please wag mo na i-share kasi nakakahiya.
 Ngayon pa nga lang nacricringe na ko e. 😐
