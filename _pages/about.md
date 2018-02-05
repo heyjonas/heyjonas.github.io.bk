@@ -18,6 +18,6 @@ Kalimutan mo na ung link at i-delete sa history ng browser mo.
 May paki-usap pala ako sayo.
 Kung ano mang mabasa mo dito, sarilinin mo na lang.
 Please wag mo na i-share kasi nakakahiya.
-Ngayon pa nga lang nacricringe na ko e. :neutral_face:
+Ngayon pa nga lang nacricringe na ko e. 😐
 
-So ayun. Sana kahit papano mag-enjoy ka. :+1:
+So ayun. Sana kahit papano mag-enjoy ka. 👍
