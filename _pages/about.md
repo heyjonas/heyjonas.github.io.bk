@@ -8,8 +8,10 @@ Buhay na ko mula pa nung June 3, 1995.
 Isang walang kwentang araw na wala ka namang pakialam.
 
 Ginawa ko tong site para ikwento ang buhay ko at kung pano ako magiging successful.
-Pagtiisan mo lang, minsan magiging baduy ako dito.
-Baka maglagay ako dito ng mga non-sense na post.
+Dapat sa October ko pa to bubuksan, pag pumasa na ko sa CPA Board Exam, pero siguro mas okay kung lagyan ko na to ng posts.
+Parang magiging diary ko to ? 😮😨
+Kaya pagtiisan mo na lang, minsan magiging baduy ako dito.
+Baka maglagay ako dito ng mga non-sense na posts.
 Kung hindi mo na matiis, pwede mo namang wag na ituloy ang pagbabasa.
 Kalimutan mo na ung link at i-delete sa history ng browser mo.
 
