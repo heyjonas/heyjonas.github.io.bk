@@ -5,7 +5,7 @@
 
 Ako si Jonas, boring at malamya.
 Buhay na ko mula pa nung June 3, 1995.
-Isang walang kwentang araw na wala ka namang pakialam.
+Isang walang kwentang araw sa Georgian Calendar na wala ka namang pakialam.
 
 Ginawa ko tong site para ikwento ang buhay ko at kung pano ako magiging successful.
 Dapat sa October ko pa to bubuksan, pag pumasa na ko sa CPA Board Exam, pero siguro mas okay kung lagyan ko na to ng posts.
