@@ -3,7 +3,7 @@
  title: "About"
 ---
 
-Ako si Jonas, isang boring boring at malamyang tao.
+Ako si Jonas, boring at malamya.
 Buhay na ko mula pa nung June 3, 1995.
 Isang walang kwentang araw na wala ka namang pakialam.
 
