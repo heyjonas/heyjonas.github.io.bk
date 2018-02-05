@@ -9,7 +9,7 @@ Isang walang kwentang araw na wala ka namang pakialam.
 
 Ginawa ko tong site para ikwento ang buhay ko at kung pano ako magiging successful.
 Dapat sa October ko pa to bubuksan, pag pumasa na ko sa CPA Board Exam, pero siguro mas okay kung lagyan ko na to ng posts.
-Parang magiging diary ko to ? 😮😨
+Parang magiging diary ko to ? 😮😨 parang gay, pero yaan na. IDGAF.
 Kaya pagtiisan mo na lang, minsan magiging baduy ako dito.
 Baka maglagay ako dito ng mga non-sense na posts.
 Kung hindi mo na matiis, pwede mo namang wag na ituloy ang pagbabasa.
