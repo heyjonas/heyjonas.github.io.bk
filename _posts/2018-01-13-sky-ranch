@@ -1,0 +1,24 @@
+---
+title: "Post: Skyranch"
+date:   2018-01-13 
+categories:
+  - Sampaguita
+tags:
+  - Sampaguita
+  - Jun
+  - Pics
+---
+
+Para sa una kong post, gusto ko ipakita ung picture namin ni Sampaguita sa Skyranch.
+
+{% capture fig_img %}
+![Jun and Sampaguita in front of SkyEye]({{ "/assets/images/jun-sam-skyeye.jpg" | absolute_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Si Sampaguita at ako. Backgorund ang SkyEye</figcaption>
+</figure>
+
+Ang panget daw nya sa kuhang yan :frowning: eh hindi naman. sabi ko okay naman yan kasi magkasama naman kami. :flushed:
+
