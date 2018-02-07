@@ -21,3 +21,7 @@ Please wag mo na i-share kasi nakakahiya.
 Ngayon pa nga lang nacricringe na ko e. 😐
 
 So ayun. Sana kahit papano mag-enjoy ka. 👍
+
+Credits:
+---
+Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Makr">LogoMakr.com</a> https://logomakr.com/3EGOVL
