@@ -1,5 +1,8 @@
 _id: 7d890f00-0b9f-11e8-b84f-75476b51bc09
-message: ' '
+message: '```while (!success()) {
+   try();
+}```
+'
 name: Jun
 email: c18cbd534af10abe3a5899b5241955ad
 url: ''
