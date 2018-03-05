@@ -30,7 +30,7 @@ hindi na kita kukulitin.
 
 para wala na ko masaktan.
 
-sana kayanin ko.
+
 
 kailangan gawin.
 
