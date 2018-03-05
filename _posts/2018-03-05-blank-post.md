@@ -1,6 +1,6 @@
 ---
 title: "Post: _blank_"
-date:   2018-01-13 
+date:   2018-03-05
 header: 
  # image: /assets/images/jasmine-profile.jpg
  # caption: "Photo of [**memeng**](https://twitter.com/eberojasmine)"
@@ -34,6 +34,8 @@ sana kayanin ko.
 ayaw ko pero kailangan gawin.
 
 🔎[ROT-13](http://www.decode.org)🔍
+
+**like, comment and subscribe**
 
 
 
