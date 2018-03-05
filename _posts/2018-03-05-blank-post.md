@@ -26,7 +26,7 @@ lalayo na ulit ako.
 
 hindi na kita kukulitin.
 
-para hindi na ko makapan
+para wala na ko masaktan.
 
 sana kayanin ko.
 
