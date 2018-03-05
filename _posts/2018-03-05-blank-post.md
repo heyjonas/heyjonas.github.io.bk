@@ -1,12 +1,13 @@
 ---
-title: "Post: _blank_"
+title: "Post: **blank**"
 date:   2018-03-05
 header: 
  # image: /assets/images/jasmine-profile.jpg
  # caption: "Photo of [**memeng**](https://twitter.com/eberojasmine)"
 ---
-
-![Jas]("/assets/images/jasmine-profile.jpeg")
+{% capture fig_img %}
+![Jasmine]({{ "/assets/images/jasmine-profile.jpeg" | absolute_url }})
+{% endcapture %}
 
 Bakit ang ganda mo sa picture na yan? 😱
 
