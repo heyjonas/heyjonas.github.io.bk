@@ -2,7 +2,7 @@
 title: "Post: **blank**"
 date:   2018-03-05
 header: 
-  image: /assets/images/jasmine-profile.jpg
+  image: /assets/images/jasmine-profile.jpeg
   caption: "Photo of [**memeng**](https://twitter.com/eberojasmine)"
 ---
 {% capture fig_img %}
