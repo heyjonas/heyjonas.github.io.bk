@@ -30,7 +30,7 @@ para wala na ko masaktan.
 
 sana kayanin ko.
 
-ayaw ko pero kailangan gawin.
+kailangan gawin.
 
 🔎[ROT-13](http://www.decode.org)🔍
 
