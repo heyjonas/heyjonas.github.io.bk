@@ -6,9 +6,7 @@ header:
  # caption: "Photo of [**memeng**](https://twitter.com/eberojasmine)"
 ---
 
-{% capture fig_img %}
-![Jasmine]({{ "/assets/images/jasmine-profile.jpeg" | absolute_url }})
-{% endcapture %}
+![Jas]("/assets/images/jasmine-profile.jpeg")
 
 Bakit ang ganda mo sa picture na yan? 😱
 
@@ -27,7 +25,7 @@ lalayo na ulit ako.
 
 hindi na kita kukulitin.
 
-para hindi na ko makapanakit.
+para hindi na ko makapan
 
 sana kayanin ko.
 
