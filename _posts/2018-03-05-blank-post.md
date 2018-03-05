@@ -11,6 +11,8 @@ header:
 
 Bakit ang ganda mo sa picture na yan? 😱
 
+buti di ka nakadila. 👍 ipakita mo din ngipin mo pag ngingiti ka para kasama ung mata.👌
+
 gusto ko sabihin sayo ng personal. na ang ganda ganda mo jan 😞 
 kaso hanggang tingin na lang ulit ako. hanggang stalk na lang ulit. 
 kahit paglike lang hindi ko na magagawa. kahit anong pagpaparamdam baka hindi n pwedeng gawin.
